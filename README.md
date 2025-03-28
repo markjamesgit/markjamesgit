@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markjamesgit&label=Profile%20views&color=0e75b6&style=flat" alt="markjamesgit" /> </p>
 
-- 🌱 I’m currently learning **Laravel, ReactJs, Bootstrap**
+- 🌱 I’m currently learning **Laravel, VueJs, Bootstrap**
 
 - 📫 How to reach me **markjames.villagonzalo06@gmail.com**
 
