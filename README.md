@@ -1,4 +1,4 @@
-# Web Developer / UI & UX Designer
+# Web Developer & UI / UX Designer
 
 🎓 I'm a fresh graduate from **Bulacan State University** with a degree in Bachelor of Science in Information Technology.
 
