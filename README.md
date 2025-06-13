@@ -1,8 +1,11 @@
 # Web Developer & UI / UX Designer
 
-🎓 I'm a fresh graduate from **Bulacan State University** with a degree in Bachelor of Science in Information Technology.
+🎓 I am a recent graduate of **Bulacan State University** with a **Bachelor of Science in Information Technology** and over **1 year of hands-on freelancing experience** in web development and UI/UX design.
 
-💻 I have a **strong foundation in web development** and a passion for **UI/UX design**. I'm always excited to learn new technologies and build user-friendly, responsive websites and applications.
+💼 As a frontend developer and UI/UX designer, I specialize in creating clean, responsive, and user-centric interfaces. My freelance work has allowed me to collaborate with diverse clients, turning ideas into interactive digital experiences.
+
+🚀 I’m continuously striving to enhance my skill set by exploring modern tools, design systems, and best development practices. I’m deeply committed to lifelong learning and passionate about building impactful solutions that balance aesthetics with functionality.
+
 
 ---
 
